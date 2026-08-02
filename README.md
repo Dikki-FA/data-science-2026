@@ -18,7 +18,7 @@ Halo! Saya Dikki Frana Alvian, mahasiswa S1 PJJ Informatika di Universitas Siber
 
 Tujuan saya dalam mempelajari Data Science adalah untuk memahami proses pengolahan data secara end-to-end, mulai dari eksplorasi awal, pembersihan data, visualisasi, hingga penerapan algoritma machine learning dasar. Saya percaya bahwa kemampuan mengolah dan menginterpretasikan data merupakan kompetensi kunci di era digital saat ini.
 
-Repository ini berisi 7 notebook (.ipynb) yang masing-masing merekam proses belajar, eksperimen kode, analisis data nyata, dan refleksi pembelajaran dari setiap pertemuan. Setiap notebook dapat dijalankan ulang dari awal hingga akhir tanpa error, dan telah dilengkapi dengan kesimpulan di sel terakhir.
+Repository ini berisi notebook (.ipynb) dari pertemuan 1-13 (pertemuan 8 adalah UTS jadi tidak ada) yang masing-masing merekam proses belajar, eksperimen kode, analisis data nyata, dan refleksi pembelajaran dari setiap pertemuan. Setiap notebook dapat dijalankan ulang dari awal hingga akhir tanpa error, dan telah dilengkapi dengan kesimpulan di sel terakhir.
 
 ---
 
@@ -33,7 +33,16 @@ Repository ini berisi 7 notebook (.ipynb) yang masing-masing merekam proses bela
 | 5 | Pertemuan 5 | Dashboard Visualisasi — Matplotlib Gridspec, Seaborn, Analisis Tips | [Pertemuan5_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1MSP9dSKdTg193p1UfnXxBqbI2bSpJwfg?usp=sharing) |
 | 6 | Pertemuan 6 | Data Preparation for ML — Encoding, StandardScaler, Train-Test Split | [Pertemuan6_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1h_3o43HBNUEaRk75k7jFuZFHnBEhAoDh?usp=sharing) |
 | 7 | Pertemuan 7 | Supervised Learning — Regresi Linear, Evaluasi Model, Residual Plot | [Pertemuan7_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1K0UIYBa8l8IY3mxSw1dl3p39w5PEEQ1T?usp=sharing) |
-
+| 9 | Pertemuan 9 | Algoritma Klasifikasi (Bagian 1) — Logistic Regression, Decision Tree, Metrik Evaluasi Klasifikasi  |
+[Pertemuan9_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1P_hyi5tM3VXnFPeyjV3YzZ3kRY0ENEAN?usp=sharing) |
+| 10 | Pertemuan 10 | Algoritma Klasifikasi (Bagian 2) — Random Forest, Penanganan Imbalanced Dataset | 
+[Pertemuan10_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1mGJsCAQMe7LB6U45dH00xG3tJfXsypmi?usp=sharing) |
+| 11 | Pertemuan 11 | Unsupervised Learning — Clustering (K-Means & Hierarchical) | 
+[Pertemuan11_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1HICEttlQWy31Ot1qTWWpwZrZ0shqkAgO?usp=sharing) |
+| 12 | Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar | 
+[Pertemuan12_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1m-1fGyC3OyFp0cC3AWpakqTya_vUktr-?usp=sharing) |
+| 13 | Pertemuan 13 | Pengantar Topik Lanjutan — Deep Learning & NLP Dasar | 
+[Pertemuan13_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1o6yXYY9LfseKRcv6W8QTBnpx0gT319OR?usp=sharing) |
 ---
 
 ## 🛠️ Tools & Library yang Digunakan
@@ -62,7 +71,7 @@ Seluruh notebook dikerjakan menggunakan **Google Colab**. Setiap notebook menyer
 
 ---
 
-## 🔍 Ringkasan Perjalanan Belajar Data Science Pertemuan 1–7
+## 🔍 Ringkasan Perjalanan Belajar Data Science Pertemuan 1–13
 
 Selama tujuh pertemuan ini, saya menempuh perjalanan belajar yang terstruktur terkait bidang Data Science.
 
@@ -78,9 +87,20 @@ Selama tujuh pertemuan ini, saya menempuh perjalanan belajar yang terstruktur te
 
 **Pertemuan 6** adalah persiapan data sebelum melatih model Machine Learning. Saya mempraktikkan One-Hot Encoding untuk variabel kategorikal, StandardScaler untuk feature scaling, dan stratified Train-Test Split pada dataset Titanic, sehingga data siap digunakan untuk tahap modelling.
 
-**Pertemuan 7** merupakan puncak dari perjalanan ini: implementasi Supervised Learning dengan algoritma Regresi Linear menggunakan dataset sintetis prediksi gaji. Model yang dibangun mencapai R² sebesar 0,974, artinya 97,4% variasi gaji dapat dijelaskan oleh fitur yang tersedia. Residual Plot menunjukkan asumsi linearitas terpenuhi, menandakan model baseline ini layak digunakan.
+**Pertemuan 7** mengimplementasikan Supervised Learning dengan algoritma Regresi Linear menggunakan dataset sintetis prediksi gaji. Model yang dibangun mencapai R² sebesar 0,974, artinya 97,4% variasi gaji dapat dijelaskan oleh fitur yang tersedia. Residual Plot menunjukkan asumsi linearitas terpenuhi, menandakan model baseline ini layak digunakan.
 
-Secara keseluruhan, perjalanan tujuh pertemuan ini membantu menambah pemahaman saya di bidang Data Science yang sebelumnya telah saya pelajari. Setiap tahap saling berkaitan dan membentuk fondasi yang kuat untuk eksplorasi Data Science yang lebih lanjut.
+**Pertemuan 9** memperkenalkan algoritma Decision Tree Classification menggunakan dataset Customer Churn. Saya mempelajari proses preprocessing, pelatihan model, visualisasi struktur pohon keputusan, serta evaluasi menggunakan Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score. Dari praktikum ini saya memahami bagaimana Decision Tree mengambil keputusan berdasarkan aturan-aturan pada setiap fitur serta pentingnya evaluasi performa model klasifikasi.
+
+**Pertemuan 10** melanjutkan pembelajaran klasifikasi menggunakan algoritma Random Forest dan Support Vector Machine (SVM). Saya membandingkan performa kedua model pada dataset Customer Churn menggunakan berbagai metrik evaluasi. Hasil praktikum menunjukkan bahwa Random Forest memberikan performa yang lebih baik dibandingkan SVM pada dataset yang digunakan, sekaligus memperkuat pemahaman bahwa pemilihan model harus disesuaikan dengan karakteristik data.
+
+**Pertemuan 11** beralih ke ranah Unsupervised Learning melalui penerapan K-Means Clustering dan Hierarchical Clustering. Saya mempelajari proses standarisasi data, penentuan jumlah cluster menggunakan Metode Elbow, evaluasi menggunakan Silhouette Score, serta visualisasi hasil clustering. Praktikum menunjukkan bahwa tiga cluster merupakan jumlah yang paling optimal untuk dataset segmentasi pelanggan yang digunakan.
+
+**Pertemuan 12** membahas Association Rule Mining menggunakan algoritma Apriori serta pengenalan Recommendation System berbasis Content-Based Filtering. Saya mempelajari cara menemukan pola pembelian menggunakan metrik Support, Confidence, dan Lift, kemudian membangun sistem rekomendasi sederhana menggunakan Cosine Similarity. Praktikum ini memberikan pemahaman bahwa pendekatan asosiasi dan sistem rekomendasi memiliki tujuan yang sama, yaitu membantu proses pengambilan keputusan berdasarkan pola data.
+
+**Pertemuan 13** mengimplementasikan Artificial Neural Network (ANN) dan Natural Language Processing (NLP). Saya membangun Neural Network sederhana menggunakan TensorFlow/Keras untuk menyelesaikan klasifikasi non-linear, kemudian menerapkan TF-IDF dan Logistic Regression pada analisis sentimen teks berbahasa Indonesia. Dari praktikum ini saya memahami konsep dasar Deep Learning, proses pelatihan Neural Network, serta bagaimana data teks diubah menjadi representasi numerik sebelum diproses oleh model Machine Learning.
+
+Secara keseluruhan, perjalanan dalam Mata Kuliah Data Science ini membantu menambah pemahaman saya di bidang Data Science yang sebelumnya telah saya pelajari. Setiap tahap saling berkaitan dan membentuk fondasi yang kuat untuk eksplorasi Data Science yang lebih lanjut.
+
 
 ---
 
