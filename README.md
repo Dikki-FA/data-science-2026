@@ -33,16 +33,11 @@ Repository ini berisi notebook (.ipynb) dari pertemuan 1-13 (pertemuan 8 adalah 
 | 5 | Pertemuan 5 | Dashboard Visualisasi — Matplotlib Gridspec, Seaborn, Analisis Tips | [Pertemuan5_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1MSP9dSKdTg193p1UfnXxBqbI2bSpJwfg?usp=sharing) |
 | 6 | Pertemuan 6 | Data Preparation for ML — Encoding, StandardScaler, Train-Test Split | [Pertemuan6_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1h_3o43HBNUEaRk75k7jFuZFHnBEhAoDh?usp=sharing) |
 | 7 | Pertemuan 7 | Supervised Learning — Regresi Linear, Evaluasi Model, Residual Plot | [Pertemuan7_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1K0UIYBa8l8IY3mxSw1dl3p39w5PEEQ1T?usp=sharing) |
-| 9 | Pertemuan 9 | Algoritma Klasifikasi (Bagian 1) — Logistic Regression, Decision Tree, Metrik Evaluasi Klasifikasi  |
-[Pertemuan9_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1P_hyi5tM3VXnFPeyjV3YzZ3kRY0ENEAN?usp=sharing) |
-| 10 | Pertemuan 10 | Algoritma Klasifikasi (Bagian 2) — Random Forest, Penanganan Imbalanced Dataset | 
-[Pertemuan10_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1mGJsCAQMe7LB6U45dH00xG3tJfXsypmi?usp=sharing) |
-| 11 | Pertemuan 11 | Unsupervised Learning — Clustering (K-Means & Hierarchical) | 
-[Pertemuan11_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1HICEttlQWy31Ot1qTWWpwZrZ0shqkAgO?usp=sharing) |
-| 12 | Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar | 
-[Pertemuan12_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1m-1fGyC3OyFp0cC3AWpakqTya_vUktr-?usp=sharing) |
-| 13 | Pertemuan 13 | Pengantar Topik Lanjutan — Deep Learning & NLP Dasar | 
-[Pertemuan13_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1o6yXYY9LfseKRcv6W8QTBnpx0gT319OR?usp=sharing) |
+| 9 | Pertemuan 9 | Algoritma Klasifikasi (Bagian 1) — Logistic Regression, Decision Tree, Metrik Evaluasi Klasifikasi  |[Pertemuan9_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1P_hyi5tM3VXnFPeyjV3YzZ3kRY0ENEAN?usp=sharing) |
+| 10 | Pertemuan 10 | Algoritma Klasifikasi (Bagian 2) — Random Forest, Penanganan Imbalanced Dataset |[Pertemuan10_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1mGJsCAQMe7LB6U45dH00xG3tJfXsypmi?usp=sharing) |
+| 11 | Pertemuan 11 | Unsupervised Learning — Clustering (K-Means & Hierarchical) | [Pertemuan11_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1HICEttlQWy31Ot1qTWWpwZrZ0shqkAgO?usp=sharing) |
+| 12 | Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Pertemuan12_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1m-1fGyC3OyFp0cC3AWpakqTya_vUktr-?usp=sharing) |
+| 13 | Pertemuan 13 | Pengantar Topik Lanjutan — Deep Learning & NLP Dasar | [Pertemuan13_Dikki_Frana_Alvian_240401010151.ipynb](https://colab.research.google.com/drive/1o6yXYY9LfseKRcv6W8QTBnpx0gT319OR?usp=sharing) |
 ---
 
 ## 🛠️ Tools & Library yang Digunakan
