@@ -100,4 +100,4 @@ Secara keseluruhan, perjalanan dalam Mata Kuliah Data Science ini membantu menam
 ---
 
 > *"Data is the new oil, but like oil, it needs to be refined to be useful."*  
-> Repository ini adalah bukti nyata dari proses 'pemurnian' data yang saya pelajari selama tujuh pertemuan pertama mata kuliah Data Science.
+> Repository ini adalah bukti nyata dari proses 'pemurnian' data yang saya pelajari selama menempuh mata kuliah Data Science.
