@@ -14,7 +14,7 @@
 
 ## 👋 Perkenalan
 
-Halo! Saya Dikki Frana Alvian, mahasiswa S1 PJJ Informatika di Universitas Siber Asia. Repository ini merupakan portofolio perjalanan belajar saya di mata kuliah **Data Science**, yang mencakup hasil aktivitas hands-on dari Pertemuan 1 hingga Pertemuan 7.
+Halo! Saya Dikki Frana Alvian, mahasiswa S1 PJJ Informatika di Universitas Siber Asia. Repository ini merupakan portofolio perjalanan belajar saya di mata kuliah **Data Science**, yang mencakup hasil aktivitas hands-on dari Pertemuan 1 hingga Pertemuan 13.
 
 Tujuan saya dalam mempelajari Data Science adalah untuk memahami proses pengolahan data secara end-to-end, mulai dari eksplorasi awal, pembersihan data, visualisasi, hingga penerapan algoritma machine learning dasar. Saya percaya bahwa kemampuan mengolah dan menginterpretasikan data merupakan kompetensi kunci di era digital saat ini.
 
